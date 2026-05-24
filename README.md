@@ -48,10 +48,10 @@ Includes:
 ## Screenshots
 
 ### E-Commerce KPI Dashboard
-![Dashboard](screenshots/E-Commerce KPI Dashboard.png)
+![Dashboard](screenshots/dashboard1.png)
 
 ### Product & Funnel Analytics
-![Analytics](screenshots/Product & Funnel Analytics.png)
+![Analytics](screenshots/dashboard2.png)
 
 ---
 
