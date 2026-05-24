@@ -57,7 +57,7 @@ Includes:
 
 ## Full Dashboard Report
 
-[Download Dashboard PDF](ecommerce-bi-dashboard.pdf)
+[Download Dashboard PDF](E-Commerce_Performance_Dashboard.pdf)
 
 ---
 
